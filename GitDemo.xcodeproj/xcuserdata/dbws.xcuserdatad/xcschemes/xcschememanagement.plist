@@ -4,7 +4,17 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>GitDemo.xcscheme</key>
+		<key>GitDemo Debug (Production) .xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>GitDemo Debug (Staging) .xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>GitDemo Release.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>

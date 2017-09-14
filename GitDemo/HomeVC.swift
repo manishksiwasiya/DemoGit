@@ -10,6 +10,7 @@ import UIKit
 
 class HomeVC: BaseVC {
 
+    @IBOutlet weak var tabBar: UITabBar!
     override func viewDidLoad() {
         super.viewDidLoad()
 
